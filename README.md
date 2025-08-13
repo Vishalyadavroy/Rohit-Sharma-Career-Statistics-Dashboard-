@@ -24,7 +24,7 @@ It helps cricket fans, analysts, and sports enthusiasts easily explore trends, m
 
 - 📈 Interactive filters for Format, Year, and Opponent
 
-  ## 🛠 Tools & Technologies Used
+  ## Tools & Technologies Used
 - Power BI – for interactive dashboard design
 
 - Excel – for data cleaning and preparation
