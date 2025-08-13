@@ -8,7 +8,7 @@ It helps cricket fans, analysts, and sports enthusiasts easily explore trends, m
 ## Project Demo Video
 - Watch the dashboard walkthrough video here:
 -  <a href="https://github.com/Vishalyadavroy/Rohit-Sharma-Career-Statistics-Dashboard-/blob/main/Dashboard%20%20working%20video.mp4">Click on It To watch </a>
-##  Dashboard Screenshot
+##  Dashboard Visualization
 - Here’s a preview of the Rohit Sharma Statistics Dashboard:
 - <a href="https://github.com/Vishalyadavroy/Rohit-Sharma-Career-Statistics-Dashboard-/blob/main/Screenshot%202025-08-06%20222559.png">Click Here To Dashboard interaction</a>
 
