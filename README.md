@@ -5,6 +5,9 @@ It helps cricket fans, analysts, and sports enthusiasts easily explore trends, m
 
 ## Dataset Used
 - <a href="https://github.com/Vishalyadavroy/Rohit-Sharma-Career-Statistics-Dashboard-/blob/main/rohit%20sharma.xlsx">DataSet</a>
+## 🎥 Project Demo Video
+- Watch the dashboard walkthrough video here:
+-  <a href="https://github.com/Vishalyadavroy/Rohit-Sharma-Career-Statistics-Dashboard-/blob/main/Dashboard%20%20working%20video.mp4">Click on It To watch </a>
 
 ## 🔍 Key Features & KPIs
 
@@ -17,3 +20,13 @@ It helps cricket fans, analysts, and sports enthusiasts easily explore trends, m
 - ⚡ Strike Rate & Average Analysis
 
 - 📈 Interactive filters for Format, Year, and Opponent
+
+  ## 🛠 Tools & Technologies Used
+- Power BI – for interactive dashboard design
+
+- Excel – for data cleaning and preparation
+
+- Cricket Data Source – ESPN Cricinfo / Kaggle dataset
+
+## ✅ Conclusion
+- This dashboard provides a quick, visual, and interactive way to explore Rohit Sharma’s batting journey and highlights his contributions to Indian cricket over the years.
