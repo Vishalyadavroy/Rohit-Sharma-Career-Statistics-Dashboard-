@@ -34,3 +34,8 @@ It helps cricket fans, analysts, and sports enthusiasts easily explore trends, m
 
 ## ✅ Conclusion
 - This dashboard provides a quick, visual, and interactive way to explore Rohit Sharma’s batting journey and highlights his contributions to Indian cricket over the years.
+
+
+## Dashboard View 
+<img width="1336" height="919" alt="Screenshot 2025-08-06 222559" src="https://github.com/user-attachments/assets/9580aad0-87e8-460a-8056-3eeccaa23570" />
+
